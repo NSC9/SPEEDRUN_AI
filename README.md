@@ -1,4 +1,8 @@
-[English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md) / [Japanese](./README_ja.md)
+Please refer to the original version of this textbook. https://course.fast.ai/Resources/book.html @book{howard2020deep,
+title={Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD}, author={Howard, J. and Gugger, S.}, isbn={9781492045526}, url={https://books.google.no/books?id=xd6LxgEACAAJ}, year={2020}, publisher={O'Reilly Media, Incorporated} }. 
+
+This textbook from here on will be rewritten by Professor Caudill of the Automated Intelligence Community College (AI2C) beginning 20 May 2024. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # The fastai book
 
