@@ -1,6 +1,8 @@
 Please refer to the original version of this textbook. https://course.fast.ai/Resources/book.html @book{howard2020deep,
 title={Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD}, author={Howard, J. and Gugger, S.}, isbn={9781492045526}, url={https://books.google.no/books?id=xd6LxgEACAAJ}, year={2020}, publisher={O'Reilly Media, Incorporated} }. 
 
+This textbook will use Google Colab Pro (not sponsored). We found Google Colab provides seemless use of cloud GPUs and allows easy uploading of datasets. We are not 100% sure yet of the viability of uploading larger datasets though, so SSH file transmission might be needed at some point for bigger projects. 
+
 This textbook from here on will be rewritten by Professor Caudill of the Automated Intelligence Community College (AI2C) beginning 20 May 2024. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
